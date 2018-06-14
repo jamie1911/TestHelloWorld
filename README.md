@@ -28,3 +28,6 @@ Here&#39;s the repo for TestWorld:
 1. One Server is deployed
 2. Security groups allow web traffic to server
 3. The server is serving the hello world test .NET Core application site from its public ip/hostname
+
+![Outcome](https://github.com/jamie1911/TestHelloWorld/blob/master/result.PNG)
+
