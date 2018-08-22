@@ -24,7 +24,7 @@ Once the project is completed, the candidate will submit the scripts/documentati
 Here&#39;s the repo for TestWorld:
  [https://github.com/jamie1911/TestHelloWorld](https://github.com/jamie1911/TestHelloWorld)
  
- ## Expected Outcome
+ ## Minimum Expected Outcome
 1. One Server is deployed
 2. Security groups allow web traffic to server
 3. The server is serving the hello world test .NET Core application site from its public ip/hostname
